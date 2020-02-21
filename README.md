@@ -1,1 +1,1 @@
-Deployed at: https://indecision-app-1nqbi6v7h.now.sh/
+Deployed at: https://indecision-app.now.sh
